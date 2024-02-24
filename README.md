@@ -1,2 +1,2 @@
-# nba-stats
+# nba-analytica
  

@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from nba_stats import get_player_stats
+from nba_analytica import get_player_stats
 
 class TestNBAStats(unittest.TestCase):
 
