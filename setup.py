@@ -12,6 +12,6 @@ setup(
     description='A package to fetch NBA player stats.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/Adamlip1334/nba-stats',
+    url='https://github.com/Adamlip1334/nba-analytica',
     license='MIT',
 )
