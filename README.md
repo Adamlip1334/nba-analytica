@@ -17,6 +17,8 @@ pip install nba-analytica
 ```
 Ensure you have Python 3.x and pip installed on your system before installing.
 
+You can also visit the [NBA Analytica PyPI page](https://pypi.org/project/nba-analytica/) for more details and updates.
+
 ## Usage
 Import the `get_player_stats` function from the package and use it to fetch player statistics by specifying the player's name and the desired statistical mode.
 
